@@ -1,0 +1,13 @@
+student
+
+1.name
+conatct
+email
+fatherName
+address
+city
+state
+eductaion
+dob
+doj(date of join)
+status (0 = newAdmission(pending),1 = active std ,2 = passed)
